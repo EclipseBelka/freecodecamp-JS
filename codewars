@@ -1,0 +1,21 @@
+1. function multiply(x,y) {
+    return x * y;
+}
+2. const multiply = (x, y) => x * y;
+..........................
+
+var a = "dev";
+var b = "Lab";
+
+var name = a + b;
+..........................
+
+function addFive(num) {
+  var total = num + 5
+  return total
+}
+..........................
+
+function move (position, roll) {
+ return position + roll*2
+}
